@@ -61,6 +61,9 @@
   <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://github.com/topics/heroku"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whitek" /></a>
   <a href="https://github.com/topics/aws"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="https://github.com/topics/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
+  <a href="https://github.com/stretchr/testify"><img src="https://img.shields.io/badge/-testify-brightgreen"/></a>
+  <a href="https://github.com/golang/mock"><img src="https://img.shields.io/badge/-gomock-brightgreen"/></a>
 </p>
 
 
