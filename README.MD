@@ -56,7 +56,6 @@
 
 <h3 align="center">Technologies that I Want to learn</h3>
 
-<h4 align="center">DevOps</h4>
 <p>
   <a href="https://github.com/topics/docker"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
